@@ -1,0 +1,15 @@
+{
+  "input_path": "inputs/ALTUZARRA-3084.TESSUTO_36.DXF",
+  "units": {
+    "unit": "mm",
+    "source": "override"
+  },
+  "extents_modelspace": {
+    "min_x": 0.0,
+    "min_y": -570.9759249658936,
+    "max_x": 9172.541721691678,
+    "max_y": 571.02
+  },
+  "physical_width_in": 361.123689830381,
+  "physical_height_in": 44.96046948684621
+}
